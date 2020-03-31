@@ -32,4 +32,4 @@ For comments and remarks, see the notebook file, short summary:
 ## Files
 - Airbnb_exploration.ipynb: Notebook exploring the three above questions
 - README.md: this file
-No data is provided in this repository but
+No data is provided in this repository but must be downloaded from Inside Airbnb. The notebook contains a cell doing that for you.
