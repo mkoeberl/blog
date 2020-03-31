@@ -1,5 +1,6 @@
 # blog
 Exploring some Inside Airbnb data
+The results from the analysis in the notebook in this repository can be found at [Medium](https://medium.com/@martin.koeberl/how-covid-19-makes-it-cheaper-and-easier-to-get-a-place-to-stay-in-vienna-fbff17cf70f6).
 
 ## Questions investigated
 We were interested in answering the following questions:
